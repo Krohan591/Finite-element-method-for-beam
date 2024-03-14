@@ -6,7 +6,7 @@ This is complete matlab code from scratch to solve beam using finite element met
 
 ![Screenshot 2024-03-13 025535](https://github.com/Krohan591/Finite-element-method-for-beam/assets/109597805/830c2339-1d47-46c3-8684-c8cd5fc55e8e)
 
-<h5>Input Parameter:<\h5><br>
+<h4>Input Parameter:</h4>h5><br>
 E=1
 I=1
 L=5
