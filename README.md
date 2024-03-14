@@ -6,14 +6,14 @@ This is complete matlab code from scratch to solve beam using finite element met
 
 ![Screenshot 2024-03-13 025535](https://github.com/Krohan591/Finite-element-method-for-beam/assets/109597805/830c2339-1d47-46c3-8684-c8cd5fc55e8e)
 
-<h4>Input Parameter:</h4>h5><br>
-E=1
-I=1
-L=5
-n_element=5  ## % element is taken to solve this problem
-just for sake of simplicity is taken E and I is taken as 1
+<h4>Input Parameter:</h4>
+E=1<br>
+I=1<br>
+L=5<br>
+n_element=5  ## % element is taken to solve this problem<br>
+just for sake of simplicity is taken E and I is taken as 1<br>
 
-#Runtime parameter:
+<h4>Runtime parameter:</h4>
 
 uniform force for element 1=0
 Elemental force matrix for element 1=[0;0;-1;0]
