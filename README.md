@@ -10,7 +10,7 @@ This is complete matlab code from scratch to solve beam using finite element met
 E=1<br>
 I=1<br>
 L=5<br>
-n_element=5  ## % element is taken to solve this problem<br>
+n_element=5  ## (5 element is taken to solve this problem)<br>
 just for sake of simplicity is taken E and I is taken as 1<br>
 
 <h4>Runtime parameter:</h4>
