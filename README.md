@@ -15,19 +15,19 @@ just for sake of simplicity is taken E and I is taken as 1<br>
 
 <h4>Runtime parameter:</h4>
 
-uniform force for element 1=0
+uniform force for element 1=0<br>
 Elemental force matrix for element 1=[0;0;-1;0]
 
-uniform force for element 2=0
+uniform force for element 2=0<br>
 Elemental force matrix for element 2=[0;0;0;0]
 
-uniform force for element 3=0
+uniform force for element 3=0<br>
 Elemental force matrix for element 3=[0;0;0;0]
 
-uniform force for element 4=-12
+uniform force for element 4=-12<br>
 Elemental force matrix for element 4=[0;0;0;0]
 
-uniform force for element 5=-12
+uniform force for element 5=-12<br>
 Elemental force matrix for element 5=[0;0;0;0]
 
 Displacement matrix for whole beam=[0;0;NaN;NaN;0;NaN;0;NaN;NaN;NaN;0;NaN]
