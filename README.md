@@ -1,6 +1,6 @@
 # Finite-element-method-for-beam
 
-This is complete matlab code from scratch to solve beam using finite element method, in mian file parameter for beam is to be entered along with number of element when code is run then in intput for each element we have to enter uniform force on it along with its points force and matrix and also have to give univerasal displacement matric in form if displacment known then its value else give NaN as input to that element in matrix for example this problem is solved in my code
+MATLAB code from scratch to solve beam problems using the finite element method. In the main file, users input parameters related to the beam, including the number of elements. When the code is executed, users provide input for each element, specifying uniform forces, point forces, and matrices. Additionally, users has to  provide a universal displacement matrix. If the displacement value is known, it is entered; otherwise, NaN is used as the input, example problem is given below
 
 
 
@@ -32,6 +32,6 @@ Elemental force matrix for element 5=[0;0;0;0]
 
 Displacement matrix for whole beam=[0;0;NaN;NaN;0;NaN;0;NaN;NaN;NaN;0;NaN]
 
-Output will give deflection, Shear force and Moment plot and all residual force and displcement can be asses by <b>F_r</b> and <b>U</b> matrix in command window
+Output will give Deflection, Shear force and Moment plot and all residual force and Displcement can be assesed by <b>F_r</b> and <b>U</b> matrix.
 
 
