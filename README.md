@@ -32,5 +32,6 @@ Elemental force matrix for element 5=[0;0;0;0]
 
 Displacement matrix for whole beam=[0;0;NaN;NaN;0;NaN;0;NaN;NaN;NaN;0;NaN]
 
+Output will give deflection, Shear force and Moment plot and all residual force and displcement can be asses by <b>F_r</b> and <b>U</b> matrix in command window
 
 
